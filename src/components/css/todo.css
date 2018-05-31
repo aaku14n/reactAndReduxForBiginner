@@ -1,0 +1,12 @@
+.base{
+    width:100%;
+    display: flex;
+    border:solid 2px #ececec;
+    padding:20px
+}
+.addTodoSection {
+    width:50%
+}
+.showTodoSection{
+    width:50%
+}
